@@ -85,6 +85,9 @@ This dashboard enables:
 
 ## 🖼️ Dashboard Preview
 
+<img width="1520" height="847" alt="image" src="https://github.com/user-attachments/assets/54c60fdd-209d-49ec-acfd-b8bb35bbba34" />
 
+
+---
 
 **Sandra Igboanugo** [LinkedIn](https://www.linkedin.com/in/sandraigboanugo/)
